@@ -3,6 +3,15 @@
 [![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)](https://1stcavalry.org)
 
 ***
++ Changelog 15th July 2022
++ Added markers/rules onto map
++ Added Infistar anti hack/admin tools
++ Added 1CAV Server help to briefing screen
++ Added allowed mods to briefing screen
++ Removed MFAdmin script
++ Enabled headlessclient 
++ Configured parameters
+
 
 ![TFAR TS Install Infographic](/assets/tfar-ts-install.jpg)
 
