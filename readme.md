@@ -21,7 +21,7 @@
 
 ![TFAR TS Install Infographic](/assets/tfar-ts-install.jpg)
 
-+ Added - Steam Collection - (https://steamcommunity.com/sharedfiles/filedetails/?id=2972467738)
++ Added [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2972467738)
 + Added [CBA_A3](https://steamcommunity.com/workshop/filedetails/?id=450814997)
 + Added [Enhanced Movement](https://steamcommunity.com/workshop/filedetails/?id=333310405)
 + Added [Enhanced Movement: Reworked](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
