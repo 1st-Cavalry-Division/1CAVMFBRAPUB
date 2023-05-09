@@ -3,6 +3,19 @@
 [![1Cav-Anniversary-logo](/assets/alt_1stCAV.png)](https://1stcavalry.org)
 
 ***
+
+  9th May 2023 - (v1.00.06) - Save progress has not been reset this update.
++ [Change] Changed the weight/load that vehicles can carry
++ [Change] Changes specialist limits to better suit player count
++ [Change] Added Admin script
++ [Change] Added 81MM Mortars to main base
++ [Change] Changed helicopter variety, added one more helipad
++ [Change] Added more ground vehicles
++ [Fix] Fixed some floating objects and vehicles
+
+***
+
+  5th May 2023 - (v1.00.05)
 +	[New] Initial commit of 1st Cavalry Division The Bra Mike Force
 +	[Change] Updated Params
 +	[Change] Updated Welcome Screen
@@ -18,8 +31,11 @@
 +	[Fix] Added teleport boards back into base
 + [Change] Some quality of life changes
 
+***
 
 ![TFAR TS Install Infographic](/assets/tfar-ts-install.jpg)
+
+***
 
 + Added [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2972467738)
 + Added [CBA_A3](https://steamcommunity.com/workshop/filedetails/?id=450814997)
